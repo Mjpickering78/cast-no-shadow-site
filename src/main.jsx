@@ -56,7 +56,7 @@ function App() {
         <div className="panel">
           <h2>Links</h2>
           <p>
-            These buttons are editable in <code>src/main.jsx</code>. Change the two link variables at the top of the file when your final Amazon and BookByApp pages are live.
+    
           </p>
           <div className="link-list">
             <a href={amazonLink} target="_blank" rel="noreferrer">Amazon book sales <span>Edit link</span></a>
