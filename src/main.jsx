@@ -31,7 +31,7 @@ function App() {
 
             <div className="button-row">
               <a href={amazonLink} target="_blank" rel="noreferrer" className="button button-primary">Buy on Amazon</a>
-              <a href="https://books.by/martin-j-pickering" target="_blank" rel="noreferrer">Buy on Books.by</a>
+              <a href="https://books.by/martin-j-pickering" target="_blank" rel="noreferrer" className="button button-primary">Buy on Books.by</a>
             </div>
           </div>
 
