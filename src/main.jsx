@@ -5,7 +5,7 @@ import './styles.css';
 function App() {
   // EDIT THESE LINKS WHEN YOUR LIVE SALES PAGES ARE READY
   const amazonLink = 'https://www.amazon.co.uk/';
-  const bookByAppLink = 'https://books.by/martin-j-pickering';
+  const bookByAppLink = 'https://books.by/martin-j-pickering/';
 
   return (
     <main className="site-shell">
