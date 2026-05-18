@@ -60,7 +60,11 @@ function App() {
           </p>
           <div className="link-list">
             <a href={amazonLink} target="_blank" rel="noreferrer">Amazon book sales <span>Edit link</span></a>
-            <a href={bookByAppLink} target="_blank" rel="noreferrer">BookByApp <span>Edit link</span></a>
+           const bookByAppLink = "https://books.by/martin-j-pickering";
+
+<a href={bookByAppLink} target="_blank" rel="noreferrer">
+  BookByApp <span>Edit link</span>
+</a>
           </div>
         </div>
       </section>
